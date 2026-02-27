@@ -56,7 +56,7 @@
 Визначено країни, де кількість користувачів перевищує 500.
 ![alt text](Screens/SQL_5.png)
 
-📎 Файл із SQL-запитами: BigQuery_SQL.md
+📎 Файл із SQL-запитами: SQL/BigQuery_SQL.md
 
 </details>
 
@@ -205,7 +205,7 @@
 
 </details>
 
-📎 Файл Tableau Dashboard "E-commerce Analytics: Sales & Customer Insights": E-commerce_Analytics.twbx
+📎 Файл Tableau Dashboard "E-commerce Analytics: Sales & Customer Insights": Tableau/E-commerce_Analytics.twbx
 https://public.tableau.com/views/Final_Project_DTA/E-commerceAnalyticsSalesCustomerInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 </details>
@@ -385,7 +385,7 @@ R2: -0.00013282748556964208
 
 Ймовірно, поведінка клієнтів та обсяг їхніх витрат формуються під впливом більшої кількості факторів, таких як категорія товару, частота покупок, історія транзакцій, регіон або індивідуальні споживчі вподобання.
 
-📎 Jupyter Notebook: LinearRegressio.ipynb
+📎 Jupyter Notebook: Python/LinearRegressio.ipynb
 </details>
 </details>
 
