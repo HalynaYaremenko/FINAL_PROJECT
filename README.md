@@ -20,6 +20,7 @@ FINAL_PROJECT/
 ├── project1_df.csv      → Датасет для аналізу
 ├── requirements.txt     → Список залежностей Python
 ├── Report.md            → Аналітичний звіт і висновки
+├── presentation.html    → Презентація проєкту
 └── README.md            → Опис структури проєкту
 ```
 
